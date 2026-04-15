@@ -154,12 +154,13 @@ img.i3{
     bottom: 364px;
 }
 
-main.shaki{
+section.shak {
     height: 600px;
     position: relative;
-    right: 4px;
+    left: 602px;
+    width: 65%;
+    bottom: 1426px;
 }
-
 figure.s{
     width: 100%;
     height: 50%;
@@ -222,7 +223,7 @@ figure.norma{
     grid-template-rows: repeat(3, 1fr);
     gap: 50px;
     position: relative;
-    bottom: 1350px;
+    bottom: 1375px;
     align-items: center;
     
 }
